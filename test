@@ -1,1 +1,61 @@
 askdaksaaaaabbbbbbbbaaaa
+ 1127  cat CHANGELOG.md 
+ 1128  git-chglog v1.. --output CHANGELOG.md
+ 1129  cat CHANGELOG.md 
+ 1130  vi CHANGELOG.md 
+ 1131  rm -rf CHANGELOG.md 
+ 1132  git-chglog v1.. --output CHANGELOG.md
+ 1133  git-chglog v1.. --o CHANGELOG.md
+ 1134  vi CHANGELOG.md 
+ 1135  git-chglog
+ 1136  git-chglog .
+ 1137  git-chglog v1
+ 1138  ls
+ 1139  git-chglog -o CHANGELOG.md
+ 1140  vi CHANGELOG.md 
+ 1141  git log
+ 1142  git-chglog -o CHANGELOG.md
+ 1143  vi CHANGELOG.md 
+ 1144  git-chglog -o CHANGELOG.md
+ 1145  vi CHANGELOG.md 
+ 1146  git-chglog -o CHANGELOG.md v1..v2
+ 1147  vi CHANGELOG.md 
+ 1148  git-chglog -o CHANGELOG.md v1..v3
+ 1149  vi CHANGELOG.md 
+ 1150  git-chglog -o CHANGELOG.md v1..v3
+ 1151  vi CHANGELOG.md 
+ 1152  git-chglog -o CHANGELOG.md v1..v3
+ 1153  vi CHANGELOG.md 
+ 1154  git-chglog -o CHANGELOG.md v1..v3
+ 1155  vi CHANGELOG.md 
+ 1156  git-chglog -o CHANGELOG.md v1..v3
+ 1157  vi CHANGELOG.md 
+ 1158  git-chglog -o CHANGELOG.md v1..v3
+ 1159  vi CHANGELOG.md 
+ 1160  git-chglog -o CHANGELOG.md v1..v3
+ 1161  vi CHANGELOG.md 
+ 1162  git-chglog -o CHANGELOG.md v1..v2
+ 1163  vi CHANGELOG.md 
+ 1164  git-chglog -o CHANGELOG.md v1..v3
+ 1165  vi CHANGELOG.md 
+ 1166  git-chglog -o CHANGELOG.md v3
+ 1167  vi CHANGELOG.md 
+ 1168  git-chglog -o CHANGELOG.md ..v3
+ 1169  vi CHANGELOG.md 
+ 1170  git checkout -b feature/hahaha 
+ 1171  git checkout feature/hahaha 
+ 1172  vi test 
+ 1173  git commit -m "fix: bug in text"
+ 1174  git add test 
+ 1175  git commit -m "fix: bug in text"
+ 1176  git push origin feature/
+ 1177  git push origin feature/hahaha 
+ 1178  git checkout master
+ 1179  git pull
+ 1180  git tag v4
+ 1181  git push origin --tags
+ 1182  git-chglog -o CHANGELOG.md ..v4
+ 1183  vi CHANGELOG.md 
+ 1184  git checkout feature/hahaha 
+ 1185  ls
+ 1186  vi CHANGELOG.md
