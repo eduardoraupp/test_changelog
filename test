@@ -57,5 +57,4 @@ askdaksaaaaabbbbbbbbaaaa
  1182  git-chglog -o CHANGELOG.md ..v4
  1183  vi CHANGELOG.md 
  1184  git checkout feature/hahaha 
- 1185  ls
  1186  vi CHANGELOG.md
